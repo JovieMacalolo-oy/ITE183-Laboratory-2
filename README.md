@@ -8,6 +8,11 @@
 #### 2. Server Execution
 ![Server Execution](terminal-run.png)
 
-#### 3. Multi-Client Chat Broadcast
-![Chat Test](screenshots/chat-test.png)
+#### 3. Multi-Client Chat Broadcast in Terminal
+![Chat Test](chat-test.png)
 
+#### 4. Multi-Client Chat Broadcast in Browser
+![Chat Test](chat-test1.png)
+
+#### 5. Multi-Client Chat Broadcast in Browser
+![Chat Test](chat-test2.png)
