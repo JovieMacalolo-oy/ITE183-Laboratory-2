@@ -9,7 +9,7 @@
 ![Server Execution](terminal-run.png)
 
 #### 3. Multi-Client Chat Broadcast in Terminal
-![Chat Test](chat-test.png)
+![Chat Test](chat-test.jfif)
 
 #### 4. Multi-Client Chat Broadcast in Browser
 ![Chat Test](chat-test1.jfif)
