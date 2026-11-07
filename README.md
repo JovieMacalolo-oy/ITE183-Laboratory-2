@@ -1,13 +1,13 @@
-# ITE183_Lab2_Websocket
+## ITE183_Lab2_Websocket
 
-## Laboratory 2: WebSocket Server
+### Laboratory 2: WebSocket Server
 
-### 1. Version Verification
-![Bonezegei Version](screenshots/version.png)
+#### 1. Version Verification
+![Bonezegei Version](version.png)
 
-### 2. Server Execution
-![Server Execution](screenshots/terminal-run.png)
+#### 2. Server Execution
+![Server Execution](terminal-run.png)
 
-### 3. Multi-Client Chat Broadcast
+#### 3. Multi-Client Chat Broadcast
 ![Chat Test](screenshots/chat-test.png)
 
