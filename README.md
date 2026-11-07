@@ -12,7 +12,7 @@
 ![Chat Test](chat-test.png)
 
 #### 4. Multi-Client Chat Broadcast in Browser
-![Chat Test](chat-test1.png)
+![Chat Test](chat-test1.jfif)
 
 #### 5. Multi-Client Chat Broadcast in Browser
-![Chat Test](chat-test2.png)
+![Chat Test](chat-test2.jfif)
